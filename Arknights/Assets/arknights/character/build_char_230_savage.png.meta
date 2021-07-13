@@ -1,0 +1,1967 @@
+fileFormatVersion: 2
+guid: 370ce126f0d791f42a73d91eeafd39e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1564291629753028102
+    second: build_char_230_savage_0
+  - first:
+      213: -7597298234966450917
+    second: build_char_230_savage_1
+  - first:
+      213: 3984748823424216835
+    second: build_char_230_savage_2
+  - first:
+      213: 6901379008883637277
+    second: build_char_230_savage_3
+  - first:
+      213: 2596466436460359500
+    second: build_char_230_savage_4
+  - first:
+      213: -3546246467040579383
+    second: build_char_230_savage_5
+  - first:
+      213: -3325597050209102413
+    second: build_char_230_savage_6
+  - first:
+      213: -1667133452220465299
+    second: build_char_230_savage_7
+  - first:
+      213: -6034508556989492507
+    second: build_char_230_savage_8
+  - first:
+      213: 5091576896916859541
+    second: build_char_230_savage_9
+  - first:
+      213: 8324101868444046140
+    second: build_char_230_savage_10
+  - first:
+      213: 8943168939543096640
+    second: build_char_230_savage_11
+  - first:
+      213: -6497268932818283315
+    second: build_char_230_savage_12
+  - first:
+      213: -7964887517874278561
+    second: build_char_230_savage_13
+  - first:
+      213: 3023117949143952892
+    second: build_char_230_savage_14
+  - first:
+      213: -3085099572055277953
+    second: build_char_230_savage_15
+  - first:
+      213: 2206309629850510518
+    second: build_char_230_savage_16
+  - first:
+      213: 2241998771737582314
+    second: build_char_230_savage_17
+  - first:
+      213: 2757986253879409879
+    second: build_char_230_savage_18
+  - first:
+      213: -9100609538227834147
+    second: build_char_230_savage_19
+  - first:
+      213: -243310953959615856
+    second: build_char_230_savage_20
+  - first:
+      213: 2351436370344424943
+    second: build_char_230_savage_21
+  - first:
+      213: -934876004672356264
+    second: build_char_230_savage_22
+  - first:
+      213: -5272720395001897585
+    second: build_char_230_savage_23
+  - first:
+      213: 7826756051939152417
+    second: build_char_230_savage_24
+  - first:
+      213: -6870460711617650392
+    second: build_char_230_savage_25
+  - first:
+      213: -8986024406524925171
+    second: build_char_230_savage_26
+  - first:
+      213: -1725989785139210126
+    second: build_char_230_savage_27
+  - first:
+      213: 616612453367759775
+    second: build_char_230_savage_28
+  - first:
+      213: -5742690770887279768
+    second: build_char_230_savage_29
+  - first:
+      213: 2227842499438392407
+    second: build_char_230_savage_30
+  - first:
+      213: -5027377822731064567
+    second: build_char_230_savage_31
+  - first:
+      213: 4044420257673828014
+    second: build_char_230_savage_32
+  - first:
+      213: 6275426809776076849
+    second: build_char_230_savage_33
+  - first:
+      213: 8802843700817055167
+    second: build_char_230_savage_34
+  - first:
+      213: 5138677339491270223
+    second: build_char_230_savage_35
+  - first:
+      213: 1912949782302924114
+    second: build_char_230_savage_36
+  - first:
+      213: -3745797696079527326
+    second: build_char_230_savage_37
+  - first:
+      213: 6013477652544126982
+    second: build_char_230_savage_38
+  - first:
+      213: -404119370821308576
+    second: build_char_230_savage_39
+  - first:
+      213: 8113708758980323739
+    second: build_char_230_savage_40
+  - first:
+      213: -5935563964385407739
+    second: build_char_230_savage_41
+  - first:
+      213: 5642324929399289547
+    second: build_char_230_savage_42
+  - first:
+      213: -9038078971763953627
+    second: build_char_230_savage_43
+  - first:
+      213: 2935789148048602417
+    second: build_char_230_savage_44
+  - first:
+      213: -8914165027098596729
+    second: build_char_230_savage_45
+  - first:
+      213: 8593259750270571910
+    second: build_char_230_savage_46
+  - first:
+      213: -6281208936951678261
+    second: build_char_230_savage_47
+  - first:
+      213: 9213104036911805911
+    second: build_char_230_savage_48
+  - first:
+      213: 5110787030993530995
+    second: build_char_230_savage_49
+  - first:
+      213: 8010600195672370141
+    second: build_char_230_savage_50
+  - first:
+      213: -644432645404331515
+    second: build_char_230_savage_51
+  - first:
+      213: -504713722451812595
+    second: build_char_230_savage_52
+  - first:
+      213: 3008978463172500565
+    second: build_char_230_savage_53
+  - first:
+      213: 8343056670943062560
+    second: build_char_230_savage_54
+  - first:
+      213: -2153128917051898229
+    second: build_char_230_savage_55
+  - first:
+      213: 281916801130266940
+    second: build_char_230_savage_56
+  - first:
+      213: 8189114471224914731
+    second: build_char_230_savage_57
+  - first:
+      213: -7096131650296669314
+    second: build_char_230_savage_58
+  - first:
+      213: 7237486127208292240
+    second: build_char_230_savage_59
+  - first:
+      213: 5287156800016589569
+    second: build_char_230_savage_60
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: build_char_230_savage_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 470
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1347bfc058a4ae0800000000000000
+      internalID: -1564291629753028102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 428
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d5f1ce189f09690800000000000000
+      internalID: -7597298234966450917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 368
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f2b5b51fbac4730800000000000000
+      internalID: 3984748823424216835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 279
+        width: 31
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cb8dcb4af96cf50800000000000000
+      internalID: 6901379008883637277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 324
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fa170a770880420800000000000000
+      internalID: 2596466436460359500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 350
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0ff0680a339cec0800000000000000
+      internalID: -3546246467040579383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_6
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 355
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b513344a1b19d1d0800000000000000
+      internalID: -3325597050209102413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 330
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f7a3345f62dd8e0800000000000000
+      internalID: -1667133452220465299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_8
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 341
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2169a807e114ca0800000000000000
+      internalID: -6034508556989492507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 309
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59aa05f163ae8a640800000000000000
+      internalID: 5091576896916859541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_10
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 316
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33d5cedb86258370800000000000000
+      internalID: 8324101868444046140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_11
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 325
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04de5cf74c48c1c70800000000000000
+      internalID: 8943168939543096640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 280
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc45f21645015d5a0800000000000000
+      internalID: -6497268932818283315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_13
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 280
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f29259009077190800000000000000
+      internalID: -7964887517874278561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 303
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd25d0f1c544f920800000000000000
+      internalID: 3023117949143952892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 210
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e7fe6e8468f25d0800000000000000
+      internalID: -3085099572055277953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 245
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b463c73be26e9e10800000000000000
+      internalID: 2206309629850510518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 247
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aead748110e2d1f10800000000000000
+      internalID: 2241998771737582314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_18
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 272
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc74eda2e5564620800000000000000
+      internalID: 2757986253879409879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_19
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 248
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2f56297d324b180800000000000000
+      internalID: -9100609538227834147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_20
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 248
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092964bf9f59f9cf0800000000000000
+      internalID: -243310953959615856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 211
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5305e9beaf1a020800000000000000
+      internalID: 2351436370344424943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 231
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850c7781a37a603f0800000000000000
+      internalID: -934876004672356264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 232
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d54ff9cb883d6b0800000000000000
+      internalID: -5272720395001897585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 211
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122d87b49293e9c60800000000000000
+      internalID: 7826756051939152417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_25
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 211
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821a0c0526837a0a0800000000000000
+      internalID: -6870460711617650392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_26
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 210
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b671a896a3b4380800000000000000
+      internalID: -8986024406524925171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 65
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27813d26f6d0c08e0800000000000000
+      internalID: -1725989785139210126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_28
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 182
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93411762c5ae8800800000000000000
+      internalID: 616612453367759775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_29
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 182
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b79528b2ddd40b0800000000000000
+      internalID: -5742690770887279768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_30
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 180
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7543b8a13f2eaee10800000000000000
+      internalID: 2227842499438392407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_31
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 114
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones:
+      - name: bone_1
+        position: {x: -38.874863, y: -106.0454, z: 0}
+        rotation: {x: 0, y: 0, z: 0.70440286, w: 0.7098005}
+        length: 186.84483
+        parentId: -1
+      - name: bone_2
+        position: {x: 131.37283, y: -110.414856, z: 0}
+        rotation: {x: 0, y: 0, z: 0.7571489, w: 0.6532424}
+        length: 45.09071
+        parentId: -1
+      - name: bone_3
+        position: {x: -12.350838, y: 213.3764, z: 0}
+        rotation: {x: 0, y: 0, z: 0.7254513, w: 0.6882736}
+        length: 31.43135
+        parentId: -1
+      - name: bone_6
+        position: {x: 52.985184, y: -11.2575, z: 0}
+        rotation: {x: 0, y: 0, z: -0.756057, w: 0.65450585}
+        length: 80.810394
+        parentId: -1
+      - name: bone_7
+        position: {x: 68.16504, y: 51.395935, z: 0}
+        rotation: {x: 0, y: 0, z: -0.98367864, w: 0.17993449}
+        length: 61.41313
+        parentId: -1
+      - name: bone_8
+        position: {x: 198.52573, y: -108.31853, z: 0}
+        rotation: {x: 0, y: 0, z: 0.2592398, w: 0.96581304}
+        length: 29.831118
+        parentId: -1
+      - name: bone_9
+        position: {x: 29.831116, y: -0.0000041569297, z: 0}
+        rotation: {x: 0, y: 0, z: 0.25249472, w: 0.9675983}
+        length: 23.82552
+        parentId: 5
+      - name: bone_10
+        position: {x: 158.19296, y: -110.025734, z: 0}
+        rotation: {x: 0, y: 0, z: 0.47918794, w: 0.87771237}
+        length: 35.517006
+        parentId: -1
+      - name: bone_11
+        position: {x: 35.517014, y: -0.000014392533, z: 0}
+        rotation: {x: 0, y: 0, z: 0.19825119, w: 0.9801513}
+        length: 19.92756
+        parentId: 7
+      - name: bone_12
+        position: {x: 94.272354, y: -41.957146, z: 0}
+        rotation: {x: 0, y: 0, z: 0.29341432, w: 0.95598537}
+        length: 49.985107
+        parentId: -1
+      - name: bone_13
+        position: {x: 361.30197, y: -83.47026, z: 0}
+        rotation: {x: 0, y: 0, z: -0.32275113, w: 0.94648385}
+        length: 29.464336
+        parentId: -1
+      spriteID: 90b2074a18a2b3ab0800000000000000
+      internalID: -5027377822731064567
+      vertices:
+      - {x: 28.817001, y: 0.41999817}
+      - {x: 36.926174, y: 2.393824}
+      - {x: 39.3991, y: 3.1068215}
+      - {x: 46.298996, y: 7.762001}
+      - {x: 50.826004, y: 15.419998}
+      - {x: 55.04, y: 23.457}
+      - {x: 59.690994, y: 30.983002}
+      - {x: 63.981003, y: 38.977997}
+      - {x: 68.05499, y: 47.056}
+      - {x: 68.76199, y: 49.877}
+      - {x: 69, y: 56}
+      - {x: 60.774994, y: 59.240005}
+      - {x: 52.479996, y: 61.576996}
+      - {x: 44.225998, y: 64.187}
+      - {x: 35.503, y: 65.599}
+      - {x: 26.5, y: 65.61301}
+      - {x: 18.600998, y: 62.852005}
+      - {x: 11.640999, y: 57.921997}
+      - {x: 11.716003, y: 49.334}
+      - {x: 9.668999, y: 42.849}
+      - {x: 4.3919983, y: 35.738007}
+      - {x: 0.4830017, y: 28.455002}
+      - {x: 0.3730011, y: 23.628006}
+      - {x: 8.669998, y: 20.880005}
+      - {x: 15.704002, y: 17.815994}
+      - {x: 12.957001, y: 9.436005}
+      - {x: 11.053001, y: 0.94799805}
+      - {x: 13.803001, y: 0.33999634}
+      - {x: 31.12606, y: 49.259293}
+      - {x: 24.714928, y: 33.98604}
+      - {x: 34.983414, y: 21.539093}
+      - {x: 45.49875, y: 41.144867}
+      indices: 170000001600000015000000070000001f0000000b000000090000000b0000000a0000000b00000009000000080000000d0000001f0000001c0000000d0000001c0000000e0000000b0000001f0000000c0000000d0000000c0000001f00000007000000060000001f0000001e0000001f000000050000001f00000006000000050000001e0000000500000004000000000000001e00000001000000020000001e0000000300000004000000030000001e0000001e000000020000000100000000000000180000001e0000001d000000170000001400000014000000170000001500000019000000000000001b0000000000000019000000180000001d0000001e000000180000001a000000190000001b00000018000000170000001d0000000b00000008000000070000001d0000001400000013000000120000001d0000001300000012000000100000001c0000001d0000001c0000001f0000001c000000100000000f0000000f0000000e0000001c0000001d000000120000001c0000001000000012000000110000001e0000001d0000001f000000
+      edges:
+      - {x: 1, y: 0}
+      - {x: 2, y: 1}
+      - {x: 3, y: 2}
+      - {x: 4, y: 3}
+      - {x: 4, y: 5}
+      - {x: 6, y: 5}
+      - {x: 7, y: 6}
+      - {x: 8, y: 7}
+      - {x: 9, y: 8}
+      - {x: 10, y: 9}
+      - {x: 11, y: 10}
+      - {x: 12, y: 11}
+      - {x: 12, y: 13}
+      - {x: 14, y: 13}
+      - {x: 15, y: 14}
+      - {x: 16, y: 15}
+      - {x: 17, y: 16}
+      - {x: 18, y: 17}
+      - {x: 19, y: 18}
+      - {x: 19, y: 20}
+      - {x: 21, y: 20}
+      - {x: 22, y: 21}
+      - {x: 23, y: 22}
+      - {x: 24, y: 23}
+      - {x: 25, y: 24}
+      - {x: 26, y: 25}
+      - {x: 27, y: 26}
+      - {x: 0, y: 27}
+      weights:
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 4
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: build_char_230_savage_32
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 149
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6da0dcbcaa02830800000000000000
+      internalID: 4044420257673828014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_33
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 114
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1387aa25f6bc61750800000000000000
+      internalID: 6275426809776076849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_34
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 10
+        width: 97
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd4c78d4bbf92a70800000000000000
+      internalID: 8802843700817055167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 66
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ef9bb70df305740800000000000000
+      internalID: 5138677339491270223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_36
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 89
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d935711b92c8a10800000000000000
+      internalID: 1912949782302924114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_37
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 81
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26204bc67d0440cc0800000000000000
+      internalID: -3745797696079527326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_38
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 67
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60084a0701a247350800000000000000
+      internalID: 6013477652544126982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_39
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 61
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f6757c297446af0800000000000000
+      internalID: -404119370821308576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_40
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 72
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b996ff5c02fa99070800000000000000
+      internalID: 8113708758980323739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_41
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 65
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dc239b504a0ada0800000000000000
+      internalID: -5935563964385407739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_42
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 65
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6fc2401a09d4e40800000000000000
+      internalID: 5642324929399289547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_43
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 66
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520f41c9f0b429280800000000000000
+      internalID: -9038078971763953627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13532e8fca40eb820800000000000000
+      internalID: 2935789148048602417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_45
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 61
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ae39a13268a4480800000000000000
+      internalID: -8914165027098596729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_46
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 49
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6851a8db634614770800000000000000
+      internalID: 8593259750270571910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_47
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 49
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca7cf840c9a4d8a0800000000000000
+      internalID: -6281208936951678261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_48
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 49
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d578d6fe458bdf70800000000000000
+      internalID: 9213104036911805911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_49
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 37
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370fa010ab92de640800000000000000
+      internalID: 5110787030993530995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_50
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 40
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbe9bc9f6e5b2f60800000000000000
+      internalID: 8010600195672370141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_51
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 40
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50272016ce38e07f0800000000000000
+      internalID: -644432645404331515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_52
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f9ef32b85eef8f0800000000000000
+      internalID: -504713722451812595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_53
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c923258f902c920800000000000000
+      internalID: 3008978463172500565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_54
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 40
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02aa38cb6dd78c370800000000000000
+      internalID: 8343056670943062560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_55
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 25
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86008f58ac8e12e0800000000000000
+      internalID: -2153128917051898229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_56
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 26
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31859346d199e300800000000000000
+      internalID: 281916801130266940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_57
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b233f5a493495a170800000000000000
+      internalID: 8189114471224914731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_58
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b19a86cd9758d90800000000000000
+      internalID: -7096131650296669314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_59
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 2
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f511f6947b07460800000000000000
+      internalID: 7237486127208292240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: build_char_230_savage_60
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 2
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103a7c8d811cf5940800000000000000
+      internalID: 5287156800016589569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
